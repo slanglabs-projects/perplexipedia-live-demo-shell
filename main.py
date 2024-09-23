@@ -7,8 +7,8 @@ import time
 
 task_complete = threading.Event()
 
-ASSISTANT_ID = "547979d3e0b541baba824a2919623401"
-API_KEY = "68e509b36d54471e8433d06f09a3207b"
+ASSISTANT_ID = ""
+API_KEY = ""
 ASSISTANT_VERSION = "1.0.0"
 
 
